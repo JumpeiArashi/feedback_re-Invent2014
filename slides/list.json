@@ -1,73 +1,122 @@
 [
-    "index.html",
+    {
+        "filename": "index.html",
+        "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
+        }
+    },
     {
         "filename": "who-am-i.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "agenda.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "whats-aws-cloudwatch-logs-agent.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "detail-logs-agent.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "demo.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "however-expensive.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "saas-expect-in-aws.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "whats-loggly.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "loggly.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "whats-datadog.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "datadog.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "good-sessions.md",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "surprise.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     },
     {
         "filename": "thx.html",
         "attr": {
+            "data-background": "../images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
         }
     }
 ]
