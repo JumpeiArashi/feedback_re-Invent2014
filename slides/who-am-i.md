@@ -15,7 +15,7 @@ My name is **Jumpei Arashi**.
     + Dynalyst
     + SSP
 
-I'm _run-of-the-mill_ enginner.
+I'm a _run-of-the-mill_ enginner.
 
 note:
     僕は結構社内の中でもマイナーな人間で、あんまし知らない人もいて、あいつ生意気そうやけど何やってるんかなーって人も多いと思います。のでちょっとだけ自己紹介させてください。
