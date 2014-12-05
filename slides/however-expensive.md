@@ -2,11 +2,7 @@
 
 ---
 
-## YES!!
-
----
-
-## 0.5$ per 1GB
+## 0.5$ per 1GB!
 
 ---
 
@@ -14,7 +10,7 @@
 
 ---
 
-# 150$!!!
+<h2 style="color:#e67e22;">150$!!!</h2>
 
 note:
     Put your speaker notes here.
