@@ -10,7 +10,7 @@
 
 ---
 
-#### 10GB (per one hour)  X  10 (your servers)  X  24hours  X  30days
+#### 1GB (per day)  X  10 (your servers)  X  30days
 
 ---
 
