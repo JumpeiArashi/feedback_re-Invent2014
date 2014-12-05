@@ -56,6 +56,14 @@
         }
     },
     {
+        "filename": "compare-ec2.html",
+        "attr": {
+            "data-background": "https://raw.githubusercontent.com/JumpeiArashi/feedback_re-Invent2014/master/images/chalkboard-tile.jpg",
+            "data-background-size": "600px",
+            "data-background-repeat": "repeat"
+        }
+    },
+    {
         "filename": "saas-expect-in-aws.html",
         "attr": {
             "data-background": "https://raw.githubusercontent.com/JumpeiArashi/feedback_re-Invent2014/master/images/chalkboard-tile.jpg",
