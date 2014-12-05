@@ -10,11 +10,11 @@
 
 ---
 
-#### 1GB (per day)  X  10 (your servers)  X  30days
+#### 1GB (per day)  X  10 (your servers)  X  30days  X  0.5$ (per 1GB)
 
 ---
 
-# 36000$!!!
+# 150$!!!
 
 note:
     Put your speaker notes here.
